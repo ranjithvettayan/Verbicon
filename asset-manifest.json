@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Verbicon/static/css/main.ab822b79.css",
+    "main.js": "/Verbicon/static/js/main.5403a21b.js",
+    "static/js/453.e7b74bb7.chunk.js": "/Verbicon/static/js/453.e7b74bb7.chunk.js",
+    "index.html": "/Verbicon/index.html",
+    "main.ab822b79.css.map": "/Verbicon/static/css/main.ab822b79.css.map",
+    "main.5403a21b.js.map": "/Verbicon/static/js/main.5403a21b.js.map",
+    "453.e7b74bb7.chunk.js.map": "/Verbicon/static/js/453.e7b74bb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab822b79.css",
+    "static/js/main.5403a21b.js"
+  ]
+}
