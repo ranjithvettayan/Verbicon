@@ -1,7 +1,7 @@
 {
   "name": "Verbicon",
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Verbicon",
+  "name": "Create Image With A Prompt",
   "icons": [
     {
       "src": "favicon.ico",
